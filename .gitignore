@@ -1,0 +1,5 @@
+model_garden/
+model_checkpoints/
+lightning_checkpoint/
+tmp/
+_depr*
